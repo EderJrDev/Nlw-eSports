@@ -2,7 +2,7 @@
 
 > Trilha Explorer
 
-Projeto construído do evento Next Level Week da Rocketseat.
+Built project from Rocketseat's Next Level Week event
 
 ## 🔧 Tecnologias
 
